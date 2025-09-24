@@ -39,7 +39,7 @@ operacao_completa.wav
 
 Execute o programa:
 
-bash   python matched_filter_detection.py
+bash   python signal_detector.py
 
 Veja os gráficos e o resultado no console!
 
